@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401235560815",
+    "firebase_url": "https://appencaminhanotificaco.firebaseio.com",
+    "project_id": "appencaminhanotificaco",
+    "storage_bucket": "appencaminhanotificaco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401235560815:android:3592fe88fe17a311",
+        "android_client_info": {
+          "package_name": "br.com.madadevmobile.encaminhanotificacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401235560815-955fj24g6pbbq9o5pmlri3m0p8fvob2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.madadevmobile.encaminhanotificacao",
+            "certificate_hash": "ed6f8adaf524a21c4117a7328e59aa20773bf9c5"
+          }
+        },
+        {
+          "client_id": "401235560815-gfrf7i6m1cv46bliolofers2nn0v0u5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6hWNsTyL3GnqYOibo1T5_mkcEByEMCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401235560815-gfrf7i6m1cv46bliolofers2nn0v0u5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
